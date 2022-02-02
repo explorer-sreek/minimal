@@ -1,3 +1,4 @@
+## The below content is added temporaily as part of an assignment. This does not reflect my original project exeprience.
 # Data Science Portfolio
 ---
 ## Machine learning
